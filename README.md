@@ -25,3 +25,7 @@ I have made a couple of files:
 - `anagrams-spanish.txt`: a dictionary of anagrams in the style of what is documented in the original article.
 
 License: MIT
+
+-----
+
+![Distribution of anagram set sizes in Spanish](anagram-set-sizes-spanish.png)
